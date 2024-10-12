@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:59622/</loc>
+    <loc>//localhost:59663/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/tags/liberty/</loc>
+    <loc>//localhost:59663/tags/liberty/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/tags/surveillance/</loc>
+    <loc>//localhost:59663/tags/surveillance/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/tags/</loc>
+    <loc>//localhost:59663/tags/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/posts/language-perfect/</loc>
+    <loc>//localhost:59663/posts/language-perfect/</loc>
     <lastmod>2019-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/posts/</loc>
+    <loc>//localhost:59663/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/tags/loyalty/</loc>
+    <loc>//localhost:59663/tags/loyalty/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/posts/sanity-not-statistical/</loc>
+    <loc>//localhost:59663/posts/sanity-not-statistical/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/posts/destruction-of-words/</loc>
+    <loc>//localhost:59663/posts/destruction-of-words/</loc>
     <lastmod>2018-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/posts/controls-the-past/</loc>
+    <loc>//localhost:59663/posts/controls-the-past/</loc>
     <lastmod>2018-06-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:59622/about/</loc>
+    <loc>//localhost:59663/about/</loc>
   </url><url>
-    <loc>//localhost:59622/categories/</loc>
+    <loc>//localhost:59663/categories/</loc>
   </url><url>
-    <loc>//localhost:59622/pages/</loc>
+    <loc>//localhost:59663/pages/</loc>
   </url>
 </urlset>
