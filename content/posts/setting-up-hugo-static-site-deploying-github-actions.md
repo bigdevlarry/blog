@@ -176,5 +176,8 @@ You’ll find a link to your live site in the deploy step above. Moving forward,
 
 ### Conclusion 
 In this article, you have learned about Hugo, relevant commands, its collections of themes, and how to deploy to GitHub Pages.
+You can find the open-source code for this blog at https://github.com/bigdevlarry/blog. 
+
+If you found this helpful, feel free to star the repository ⭐!
 
 Keep learning, and Happy Coding!
