@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Big Larry 😁</title>
+    <link>//localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on Big Larry 😁</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up a Hugo Static Site and Deploying with GitHub Actions</title>
+      <link>//localhost:1313/posts/setting-up-hugo-static-site-deploying-github-actions/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/setting-up-hugo-static-site-deploying-github-actions/</guid>
+      <description>&lt;h2 id=&#34;why-hugo&#34;&gt;Why Hugo?&lt;/h2&gt;&#xA;&lt;p&gt;Using Hugo was a personal choice because I wanted something blazing fast, with easy setup and no dependencies. It will serve static sites, and the markdown support makes it perfect for a straightforward blogging experience.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; is a static site generator known for its speed and flexibility, making it an excellent choice for creating fast, modern websites.&lt;/p&gt;&#xA;&lt;p&gt;In this guide, you’ll learn the following&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;How to use Homebrew to install Hugo&lt;/li&gt;&#xA;&lt;li&gt;Installing a Hugo theme of your choice&lt;/li&gt;&#xA;&lt;li&gt;Hosting and Deployment with Github Actions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-use-homebrew-to-install-hugo&#34;&gt;How to use Homebrew to install Hugo&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homebrew&lt;/strong&gt; is a free, open-source package manager that allows users to install, update, and manage software on macOS and Linux.&#xA;You can install it by following this  &lt;a href=&#34;https://brew.sh/&#34; target=&#34;_blank&#34;&gt; link.&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
