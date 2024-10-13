@@ -1,7 +1,4 @@
-<p> 
 ![GitHub and Hugo logo](https://github.com/bigdevlarry/blog/blob/main/public/images/hugo-gh-action/gh-logo.png)
-</p>
-public/images/hugo-gh-action/gh-logo.png
 
 ## How do we build and run it?
 To run the project, you'll need to do the following:
