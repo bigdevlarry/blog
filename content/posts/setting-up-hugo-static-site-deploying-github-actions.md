@@ -59,17 +59,17 @@ I’ll install this <a href="https://themes.gohugo.io/themes/hugo-winston-theme/
 But to do that, we need to do the following:
 
 ### Create a GitHub repository
-You'll need to create a git repository for the project by following this URL <a href="https://github.com/new"> https://github.com/new </a> <img src="/images/hugo-gh-action/gh-repo.png" alt="Image of GitHub New Repository"/>
+You'll need to create a git repository for the project by following this URL <a href="https://github.com/new"> https://github.com/new </a> <img src="/blog/images/hugo-gh-action/gh-repo.png" alt="Image of GitHub New Repository"/>
 ### Setup GitHub pages and deployment source
 Set up GitHub pages, which we will use to host the static sites by going to this URL:
 ```
 https://github.com/<your_github_username>/<repository_name>/settings/pages
 ```
-In the **Build and Deployment** section of the GitHub pages, select GitHub Actions from the source dropdown <img src="/images/hugo-gh-action/gh-pages.png" alt="Image of GitHub pages"/>
+In the **Build and Deployment** section of the GitHub pages, select GitHub Actions from the source dropdown <img src="/blog/images/hugo-gh-action/gh-pages.png" alt="Image of GitHub pages"/>
 
 ### Clone the theme (hugo-winston-theme)
 Click the **Download** button from the <a href="https://themes.gohugo.io/themes/hugo-winston-theme/"> Hugo Winston theme</a>, which will redirect you to the project's GitHub repository.
-Fork the repository, and you should have a copy of it in your repository <img src="/images/hugo-gh-action/gh-fork.png" alt="Image of GitHub fork repository"/>
+Fork the repository, and you should have a copy of it in your repository <img src="/blog/images/hugo-gh-action/gh-fork.png" alt="Image of GitHub fork repository"/>
 
 ### Create the submodule locally
 Next, add your forked version of the theme as a new submodule using the command below. This step integrates the theme as an external repository into your current Git repository. After executing the command, you'll find the theme files located in the themes/hugo-winston-themes directory.
@@ -170,7 +170,7 @@ jobs:
 
 ```
 Commit your latest changes to the local repository with a relevant commit message, such as "Add Hugo workflow file", and push them to GitHub. Then, navigate to your project's GitHub repository, click the **Actions** tab, and you’ll see the deployment process in progress.
-<img src="/images/hugo-gh-action/gh-actions.png" alt="Image of GitHub action deployment"/>
+<img src="/blog/images/hugo-gh-action/gh-actions.png" alt="Image of GitHub action deployment"/>
 
 You’ll find a link to your live site in the deploy step above. Moving forward, every time you push changes from your local repository, GitHub will automatically rebuild and deploy your updated site.
 
