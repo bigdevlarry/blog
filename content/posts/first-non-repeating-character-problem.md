@@ -16,12 +16,22 @@ The function should return the index of this first non-repeating character. If n
 ##### Sample input
 ```
 string = "aabccbcd"
+string = "aabccbc"
 ```
 ##### Sample output
 ```
 7 // The first non-repeating character is "d" and it is found at index 7
+-1 // All characters repeat
 ```
 
+##### Sample input
+```
+string = "aabccbc"
+```
+##### Sample output
+```
+-1 // All characters repeat
+```
 
 ### Illustration of the problem
 <img src="/blog/images/string/first-non-repeating-character.png">
