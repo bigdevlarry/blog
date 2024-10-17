@@ -31,8 +31,13 @@ string = "aabccbc"
 -1 // All characters repeat
 ```
 
-### Illustration of the problem
+### Illustration & Pseudo code
 <img src="/blog/images/string/first-non-repeating-character.png">
+
+- Approach the problem using 2 loops
+- Create an empty hash table to store the character counts
+- First loop: Loop through the input string and for each character in the string, increment its count and populate the hash table
+- Second loop: Loop through the input string again. For each character, check its count in the hash table. If the count is equal to `1`, return the index of that character.
 
 Solution in JS
 
