@@ -59,12 +59,11 @@ function firstNonRepeatingCharacter($string) {
     
   $charCount = [];
   
-  // Convert the string into an array of characters
-  $characters = str_split($string); 
-  
   // Count character occurrences using foreach
-  foreach ($characters as $char) {
-  // Increment the character count if the character already exists, otherwise initialize it to 1
+  for ($i = 0; $i < strlen($string); $i++) {
+    $char = $string[$i];
+    
+    // Increment the character count if the character already exists, otherwise initialize it to 1
     $charCount[$char] = isset($charCount[$char]) ? $charCount[$char] + 1 : 1;
   }
     
