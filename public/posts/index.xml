@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Big Larry 😁</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Non-Repeating Character</title>
+      <link>//localhost:1313/posts/first-non-repeating-character-problem/</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/first-non-repeating-character-problem/</guid>
+      <description>&lt;h3 id=&#34;category---easy-&#34;&gt;Category - Easy 🟩&lt;/h3&gt;&#xA;&lt;h3 id=&#34;problem-statement-&#34;&gt;Problem statement 🤔&lt;/h3&gt;&#xA;&lt;p&gt;Given a string containing only English alphabet characters, the task is to find the first character in the string that does not repeat (i.e., it occurs exactly once).&#xA;The function should return the index of this first non-repeating character. If no such character exists (i.e., if all characters repeat), the function should return &lt;code&gt;-1&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h5 id=&#34;sample-input&#34;&gt;Sample input&lt;/h5&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;string = &amp;#34;aabccbcd&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h5 id=&#34;sample-output&#34;&gt;Sample output&lt;/h5&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;7 // The first non-repeating character is &amp;#34;d&amp;#34; and it is found at index 7&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;illustration-of-the-problem&#34;&gt;Illustration of the problem&lt;/h3&gt;&#xA;&lt;img src=&#34;//localhost:1313/blog/images/string/first-non-repeating-character.png&#34;&gt;&#xA;&lt;p&gt;Solution in JS&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Setting Up a Hugo Static Site and Deploying with GitHub Actions</title>
       <link>//localhost:1313/posts/setting-up-hugo-static-site-deploying-github-actions/</link>
