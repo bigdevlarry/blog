@@ -13,18 +13,16 @@ Given a string containing only English alphabet characters, the task is to find 
 The function should return the index of this first non-repeating character. If no such character exists (i.e., if all characters repeat), the function should return `-1`.
 
 
-##### Sample input
+##### Sample input 1
 ```
 string = "aabccbcd"
-string = "aabccbc"
 ```
 ##### Sample output
 ```
 7 // The first non-repeating character is "d" and it is found at index 7
--1 // All characters repeat
 ```
 
-##### Sample input
+##### Sample input 2
 ```
 string = "aabccbc"
 ```
