@@ -5,9 +5,12 @@ description: "What is the most efficient way to find the first character in a st
 tags:
    - algorithm
 ---
-### Category - Easy 🟩
+
+
 
 ### Problem statement 🤔
+
+##### Category - Easy 🟩
 
 Given a string containing only English alphabet characters, the task is to find the first character in the string that does not repeat (i.e., it occurs exactly once). 
 The function should return the index of this first non-repeating character. If no such character exists (i.e., if all characters repeat), the function should return `-1`.
@@ -39,7 +42,9 @@ string = "aabccbc"
 - First loop: Loop through the input string and for each character in the string, increment its count and populate the hash table
 - Second loop: Loop through the input string again. For each character, check its count in the hash table. If the count is equal to `1`, return the index of that character.
 
-Solution in JS
+
+
+#### Solution in JS
 
 ```javascript
 function firstNonRepeatingCharacter(string) {
@@ -65,7 +70,7 @@ result = firstNonRepeatingCharacter('aabccbcd');
 console.log(result) // 7 
 ```
 
-Solution in PHP
+#### Solution in PHP
 
 ```php
 function firstNonRepeatingCharacter($string) {
